@@ -1,1 +1,1 @@
-# electricity-bill-predictor
+Complete project README
