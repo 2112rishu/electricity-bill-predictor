@@ -129,7 +129,7 @@ pip install pandas numpy matplotlib scikit-learn requests
 
 ## 👨‍💻 Author
 
-**Name:** [akshat]
+**Name:** [Akshat]
 
 ## 📄 License
 
